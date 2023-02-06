@@ -41,7 +41,7 @@ $ git config --global user.email "mail@example.com"
 $ git config --global user.name "username"
 
 # Go into repository
-$ cd alx-pre_course
+$ cd zero_day
 
 #The rest is history mate. Hack away!
 ```
